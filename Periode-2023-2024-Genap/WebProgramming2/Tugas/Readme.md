@@ -1,5 +1,5 @@
-# Tugas (Ganti Nama Tugas)
+# Tugas (Todo list )
 <ul>
-  <li>Tugas: {Nama Tugas}</li>
-  <li>Nama: {Nama}</li>
+  <li>Tugas: {Belajar Todo}</li>
+  <li>Nama: {Aulia Wira Yudha Mustopa}</li>
 </ul>
